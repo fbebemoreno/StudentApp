@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="student_names">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Charlie</item>
+        <item>Delta</item>
+        <item>Echo</item>
+        <item>Foxtrot</item>
+    </string-array>
+
+    <string-array name="student_ids">
+        <item>000001</item>
+        <item>000002</item>
+        <item>000003</item>
+        <item>000004</item>
+        <item>000005</item>
+        <item>000006</item>
+    </string-array>
+
+</resources>
